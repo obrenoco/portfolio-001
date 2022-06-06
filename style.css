@@ -4,3 +4,25 @@ html,
 body {
   margin: 0;
 }
+
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 6rem;
+}
+
+h3 {
+  margin: 0;
+  line-height: initial;
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+button {
+  background-color: mediumslateblue;
+  padding: 16px;
+  color: black;
+  font-weight: bold;
+}
